@@ -1,3 +1,4 @@
+<img width="1440" height="900" alt="Screenshot 2026-07-21 at 2 40 26 PM" src="https://github.com/user-attachments/assets/30b1577b-e814-4ecc-a9b9-735131c21130" />
 # Superstore Sales & Profitability Analysis
 
 SQL + Tableau project analyzing sales, profit, and discount trends 
