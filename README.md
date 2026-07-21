@@ -22,5 +22,6 @@ region, category, and sub-category.
 See `queries.sql` for the full set of analysis queries used.
 
 ## Dashboard Preview
-!<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/cc5d5e2c-bd62-419b-ab53-ca25ab299a2f" />
+!<img width="1002" height="778" alt="image" src="https://github.com/user-attachments/assets/a8038976-d50f-4222-bf41-9da872786542" />
+
 
